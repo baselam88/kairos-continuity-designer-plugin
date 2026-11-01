@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "KAIROS AI Systems"
+  },
+  "description": "Builds the recurring offer's starter: a valuable bonus, banked free time, or a real setup fee waived \u2014 for committing today.",
+  "keywords": [
+    "continuity",
+    "designer",
+    "kairos",
+    "small business"
+  ],
+  "license": "MIT",
+  "name": "kairos-continuity-designer",
+  "repository": "https://github.com/baselam88/kairos-continuity-designer-plugin",
+  "version": "0.1.0"
+}
